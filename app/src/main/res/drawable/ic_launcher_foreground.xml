@@ -1,0 +1,97 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Shadow / Outline for Cartoon Dollar -->
+    <!-- Vertical Bar Behind -->
+    <path
+        android:pathData="M50,14 L58,14 L58,78 L50,78 Z"
+        android:fillColor="#1E293B" />
+    <!-- Dollar S Shape Body Outline -->
+    <path
+        android:pathData="M72,28 C72,18 62,16 54,16 C44,16 34,20 34,32 C34,44 72,40 72,56 C72,68 60,72 54,72 C44,72 32,66 32,58 L42,58 C42,62 48,64 54,64 C60,64 62,60 62,56 C62,44 24,46 24,32 C24,18 38,10 54,10 C68,10 80,16 80,28 Z"
+        android:fillColor="#1E293B" />
+
+    <!-- Dollar Inner Fill (Golden Yellow) -->
+    <path
+        android:pathData="M52,16 L56,16 L56,76 L52,76 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M70,29 C70,20 61,18 54,18 C45,18 36,22 36,32 C36,42 70,38 70,56 C70,66 59,70 54,70 C45,70 34,64 34,57 L41,57 C41,61 47,63 54,63 C61,63 63,58 63,56 C63,45 26,47 26,32 C26,20 39,12 54,12 C67,12 78,18 78,29 Z"
+        android:fillColor="#FBBF24" />
+
+    <!-- Cartoon Eyes -->
+    <!-- Left Eye Outer White -->
+    <path
+        android:pathData="M43,32 A5,7 0 1,1 42.9,32 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Left Eye Pupil -->
+    <path
+        android:pathData="M44,32 A2.5,3.5 0 1,1 43.9,32 Z"
+        android:fillColor="#1E293B" />
+    <!-- Left Eye Shine -->
+    <path
+        android:pathData="M45,30.5 A1,1 0 1,1 44.9,30.5 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Right Eye Outer White -->
+    <path
+        android:pathData="M61,32 A5,7 0 1,1 60.9,32 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Right Eye Pupil -->
+    <path
+        android:pathData="M60,32 A2.5,3.5 0 1,1 59.9,32 Z"
+        android:fillColor="#1E293B" />
+    <!-- Right Eye Shine -->
+    <path
+        android:pathData="M61,30.5 A1,1 0 1,1 60.9,30.5 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Cartoon Smile Mouth -->
+    <path
+        android:pathData="M48,41 Q52,47 56,41"
+        android:strokeColor="#1E293B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Cute Cheeks -->
+    <path
+        android:pathData="M40,40 A3,2 0 1,1 39.9,40 Z"
+        android:fillColor="#F87171" />
+    <path
+        android:pathData="M64,40 A3,2 0 1,1 63.9,40 Z"
+        android:fillColor="#F87171" />
+
+    <!-- Sparkle Stars -->
+    <!-- Left Sparkle -->
+    <path
+        android:pathData="M18,20 L20,16 L22,20 L26,22 L22,24 L20,28 L18,24 L14,22 Z"
+        android:fillColor="#FDE047" />
+    <!-- Right Sparkle -->
+    <path
+        android:pathData="M84,16 L85.5,13 L87,16 L90,17.5 L87,19 L85.5,22 L84,19 L81,17.5 Z"
+        android:fillColor="#FDE047" />
+
+    <!-- "EM" LOGO BADGE AT THE BOTTOM -->
+    <!-- Badge Background Pill -->
+    <path
+        android:pathData="M28,80 L80,80 A12,12 0 0,1 80,102 L28,102 A12,12 0 0,1 28,80 Z"
+        android:fillColor="#064E3B" />
+    <path
+        android:pathData="M30,82 L78,82 A10,10 0 0,1 78,100 L30,100 A10,10 0 0,1 30,82 Z"
+        android:fillColor="#059669" />
+
+    <!-- "E" Letter -->
+    <path
+        android:pathData="M40,86 L50,86 L50,89 L43,89 L43,92 L49,92 L49,94 L43,94 L43,97 L50,97 L50,100 L40,100 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- "M" Letter -->
+    <path
+        android:pathData="M56,86 L60,86 L64,93 L68,86 L72,86 L72,100 L69,100 L69,91 L65,98 L63,98 L59,91 L59,100 L56,100 Z"
+        android:fillColor="#FFFFFF" />
+
+</vector>
